@@ -39,3 +39,10 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
+
+.imagem-pergunta {
+width: 200%; 
+max-width: 800px; 
+margin-top: 20px; 
+border-radius: 30px; 
+ }
